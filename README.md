@@ -1,2 +1,2 @@
-# santal-khabar.in
+# santalkhabar.in
 It's my website 
